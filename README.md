@@ -3,7 +3,7 @@
 This is a Dog Emotion Classifier model that predicts the emotions of dogs as happy, sad, angry, or relaxed. The model has been trained on a large dataset of dog images using deep learning techniques and is capable of accurately classifying emotions of dogs in real-time.
 
 #API Usage
-The model is available as a RESTful API that can be accessed using HTTP requests. The API accepts an image of a dog as input and returns the predicted emotion as output. The API endpoint for the Dog Emotion Classifier is: https://api.dogemotionclassifier.com/predict.
+The model is available as a RESTful API that can be accessed using HTTP requests. The API accepts an image of a dog as input and returns the predicted emotion as output. 
 
 #Input
 The API accepts an image of a dog in JPG, PNG, or GIF format as input. The image can be sent as a binary file in the request body or as a URL pointing to the image.
