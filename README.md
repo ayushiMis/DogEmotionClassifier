@@ -2,6 +2,8 @@
 
 This is a Dog Emotion Classifier model that predicts the emotions of dogs as happy, sad, angry, or relaxed. The model has been trained on a large dataset of dog images using deep learning techniques and is capable of accurately classifying emotions of dogs in real-time.
 
+## DataSet
+The data set is refered from here :- "https://www.kaggle.com/datasets/danielshanbalico/dog-emotion"
 ## API Usage
 The model is available as a RESTful API that can be accessed using HTTP requests. The API accepts an image of a dog as input and returns the predicted emotion as output. 
 
